@@ -8,5 +8,6 @@ public class GitFlowController {
         String test = "";
 
         test = "git flow Test1";
+        test = "git flow Test2";
     }
 }
